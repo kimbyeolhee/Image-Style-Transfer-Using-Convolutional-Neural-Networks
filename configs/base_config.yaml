@@ -4,9 +4,9 @@ data:
 
 
 trainer:
-  optimizer: LBGFS # Adam
+  optimizer: Adam # Adam or LBGFS
   lr: 0.1
-  epochs: 1000
+  epochs: 1000 # 1000 or 100
   step_size: 100
   alpha: 1.0
   beta: 1e6

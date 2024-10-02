@@ -29,7 +29,7 @@ python train.py
     <th style="text-align: center;">Optimizer: LBFGS (paper)</th>
   </tr>
   <tr>
-    <td><img src="output/epoch_900.jpg" width="300" height="300"></td>
-    <td><img src="output/LBGFS_epoch_400.jpg" width="300" height="300"></td>
+    <td><img src="output/Adam_epoch_900.jpg" width="300" height="300"></td>
+    <td><img src="output/LBGFS_epoch_500.jpg" width="300" height="300"></td>
   </tr>
 </table>
