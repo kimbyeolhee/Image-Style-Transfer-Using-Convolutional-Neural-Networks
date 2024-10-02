@@ -30,6 +30,6 @@ python train.py
   </tr>
   <tr>
     <td><img src="output/epoch_900.jpg" width="300" height="300"></td>
-    <td><img src="output/LBFGS_epoch_200.jpg" width="300" height="300"></td>
+    <td><img src="output/LBGFS_epoch_400.jpg" width="300" height="300"></td>
   </tr>
 </table>
