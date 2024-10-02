@@ -1,0 +1,13 @@
+data:
+  content_image_path: "C:\\Users\\User\\neural_style_transfer\\dataset\\content.jpg"
+  style_image_path: "C:\\Users\\User\\neural_style_transfer\\dataset\\style.jpg"
+
+
+trainer:
+  optimizer: LBGFS # Adam
+  lr: 0.1
+  epochs: 1000
+  step_size: 100
+  alpha: 1.0
+  beta: 1e6
+
